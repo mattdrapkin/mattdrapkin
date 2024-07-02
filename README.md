@@ -1,4 +1,4 @@
-# Matthew Drapkin
+# Matt Drapkin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mattdrapkin-blue)](https://linkedin.com/in/mattdrapkin)
 
