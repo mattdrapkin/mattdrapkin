@@ -4,9 +4,9 @@
 
 ## 👋 About Me
 
-Hi there! I'm Matt Drapkin, a Computer Science student at Princeton University with a minor in Statistics and Machine Learning.
+Hi there! I'm Matt Drapkin, a Computer Science student at Princeton University with a minor in Statistics and Machine Learning. My interests lie primarily in full-stack engineering and entrepreneurship.
 
-Some of my favorite classes I've taken include Advanced Programming Techniques, Computer Vision, and Research Projects in Data Science. I am most excited to take Computer Architecture and Principles of Blockchains in the fall, when I'll get practice with C++ and Rust.
+Some of my favorite classes I've taken at Princeton include Advanced Programming Techniques, Computer Vision, and Research Projects in Data Science. I am most excited to take Computer Architecture and Principles of Blockchains in the fall, when I'll get practice with C++ and Rust.
 
 ## 💼 Experience
 
