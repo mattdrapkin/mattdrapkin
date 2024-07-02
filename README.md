@@ -41,4 +41,4 @@ I'm proficient in several programming languages including Java, C, Python, JavaS
 
 Beyond my professional interests, I love playing basketball and currently serve as the captain of the Men’s Club Basketball team. I'm also involved in various student organizations such as Business Brilliance, Chabad Student Board, Entrepreneurship Club, The Daily Princetonian Newspaper, Hack4Impact, and Tiger Inn.
 
-Feel free to connect with me on LinkedIn or check out my projects on GitHub. Let's innovate and create something amazing together!
+Feel free to connect with me on LinkedIn or check out my projects on GitHub!
