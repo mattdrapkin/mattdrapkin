@@ -4,28 +4,30 @@
 
 ## 👋 About Me
 
-Hi there! I'm Matt Drapkin, a Computer Science student at Princeton University with a minor in Statistics and Machine Learning. My interests lie primarily in full-stack engineering and entrepreneurship.
+I'm Matt Drapkin, a Computer Science student at Princeton University with a minor in Statistics and Machine Learning. My interests lie primarily in AI, entrepreneurship, and investing.
 
-Some of my favorite classes I've taken at Princeton include Advanced Programming Techniques, Computer Vision, and Research Projects in Data Science. I am more interested now than ever before to learn more about how businesses function so I can take my ideas to market.
+Some of my favorite classes I've taken at Princeton include Advanced Programming Techniques, Computer Vision, and Research Projects in Data Science. I am more interested now than ever before to learn more about how businesses operate so I can take my ideas to market.
 
 ## 💼 Experience
 
 ### PRINCO Investment Analyst (NJ)
-This summer, I wanted to gain exposure to some of the best and brightest in the entrepreneurship world. Working as an Investment Analyst at Princeton University Investment Company (PRINCO), I am learning to analyze financial models and conduct due diligence on hedge funds and VC's. I am grateful to have the chance to meet with founders, CEO's, and seasoned investors as I help manage the largest university endowment per student in the U.S.
+Due diligence and financial analysis on US VC’s
 
 ### Amazon SDE (NYC)
-Deployed large-scale machine learning systems to enhance the Amazon Catalog's accuracy, working with technologies like Java, JUnit, Apache Spark, and AWS services like EMR and S3. Calibrated a SageMaker Batch Transform Model to reach 95% precision before autopublishing to online catalog.
+Amazon Catalog ML infrastructure
 
 ### Thales SDE (PA)
-Unit testing, Behavior Driven Development, and secure web application development for Smart Card management tools.
+Full Stack Smart Card development
 
 ### R&D Engineer at CUbits.ai
-Designed an ed-tech interface used by over 300 students across multiple universities in React and Redux.
+Ed-tech system redesign
 
 ## 💡 Projects
 
+### QuickCase
+
 ### Locked: The AI E-reader
-Developed an AI-enhanced e-reader that integrates OpenAI's GPT engine to prompt users with quiz questions, promoting active recall and spaced repetition study strategies. This project involved React, Express.js, PostgreSQL, and AWS S3, among other technologies.
+Developed an AI-enhanced e-reader that prompts users with quiz questions as they read, promoting active recall and spaced repetition study strategies. This project involved React, Express.js, PostgreSQL, and AWS S3, among other technologies.
 
 ### Image Super Resolution Using Deep Convolutional Networks
 Implemented and evaluated a Super Resolution Convolutional Neural Network (SRCNN), demonstrating significant improvements in image quality. Developed with Python and Keras.
@@ -35,8 +37,8 @@ Led a startup focused on sustainability, creating a platform for students to bor
 
 ## 🛠️ Technical Skills
 
-I'm proficient in several programming languages including Java, C, Python, JavaScript, Golang, C#, R, SQL. I also have experience with frameworks and tools like React, Flask, Express.js, jQuery, NumPy, Pandas, Svelte, Selenium, Apache Spark, and Tidymodels.
+I'm proficient in several programming languages including Java, Python, JavaScript and R, and I have experience working in C, Go, C#. I also have experience with frameworks and tools like React, Next.js, Flask, Express.js, FastAPI, jQuery, NumPy, Pandas, Svelte, Selenium, Apache Spark, and Tidymodels.
 
 ## 🌟 Interests
 
-Beyond my professional interests, I love playing basketball and currently serve as the captain of the Men’s Club Basketball team. I'm also involved in various student organizations such as Business Brilliance, Chabad Student Board, Entrepreneurship Club, The Daily Princetonian Newspaper, Hack4Impact, and Tiger Inn.
+Beyond my professional interests, I love playing basketball and currently serve as the captain of Princeton's Club Basketball team. I'm also involved in different student organizations such as Entrepreneurship Club, the Chabad Student Board, The Daily Princetonian Newspaper, Hack4Impact, and Tiger Inn.
