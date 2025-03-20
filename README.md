@@ -25,6 +25,7 @@ Ed-tech system redesign
 ## 💡 Projects
 
 ### QuickCase
+Building an AI-powered Law Review editor. Upload your draft to catch any Bluebook formatting mistakes, gather all referenced sources at once, and find where each source adequately supports the claims made in the manuscript. Built primarily with Next.js, FastAPI, PostgreSQL, OpenAI LLM/text embedding models, and Pinecone. 
 
 ### Locked: The AI E-reader
 Developed an AI-enhanced e-reader that prompts users with quiz questions as they read, promoting active recall and spaced repetition study strategies. This project involved React, Express.js, PostgreSQL, and AWS S3, among other technologies.
